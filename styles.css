@@ -1,0 +1,19 @@
+div{
+    /*background-image: url("notas.jpg");*/
+    background-size: cover;
+    width: 80%;
+    color: darkblue
+}
+img {
+   width: 150px;
+
+}
+
+.border {
+    text-align: center;
+    border: 1px solid;
+}
+
+.tablelayout{
+    border-spacing: 30px
+}
